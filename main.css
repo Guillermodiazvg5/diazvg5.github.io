@@ -67,32 +67,22 @@ body::-webkit-scrollbar-thumb {
 
 .main-content{
 
-    background-image: url("https://scontent.feoh1-1.fna.fbcdn.net/v/t39.30808-6/350940439_170915162375233_7422209720735994344_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=cd49ab&_nc_ohc=slTDIZU6RaoAX-ics2O&_nc_zt=23&_nc_ht=scontent.feoh1-1.fna&oh=00_AfD-lgY60z3DkuiiCqQj6heA4XbDSld32xS2ois5Ydalew&oe=64FDAA94");
-    background-size: 85%;
+    background-image: url("img/cover.png");
+    
 }
 
 /* agregado*/
 
-input[id="numeroID"]::-webkit-inner-spin-button, input[id="numeroID"]::-webkit-outer-spin-button {
-    appearance: none;
-    margin: 0;
-  }
-
   .img_1{
     
-        transform: scale(0.2);
-        margin: 0%;
-        display: inline-block;
-      
+        display: inline;
+        width: 10%;
+        height: 10%;
   }
 
-  .list_1{
-    height: 15vh;
-    margin: 0%;
-    width: 50vh;
-  } 
+.span_footer{
 
-  .ref_1{
-    margin: 0%;
-    display: inline-block;
-  }
+    font-size: x-large;
+    color: #fffb01;
+    font-family: Lobster, cursive;
+}
